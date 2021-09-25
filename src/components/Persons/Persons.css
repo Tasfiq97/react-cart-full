@@ -1,0 +1,12 @@
+.publisher-card{
+    padding: 20px;
+    text-align: center;
+    background-color: #ecedee;
+    border: 2px solid rgb(201, 198, 198);
+}
+
+.publisher-card img{
+margin-top: 10px;
+    width: 50%;
+    border-radius: 50%;
+}
