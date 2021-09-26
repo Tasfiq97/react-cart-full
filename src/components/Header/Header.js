@@ -19,7 +19,7 @@ const Header = () => {
         </div>
         {/* total cost section  */}
         <div className="total-sec">
-            <h1>Total Cost For Publication: <span>$ 22,500,000</span></h1>
+            <h1>Total Budget For Publication  : <span>$ 22,500,000</span></h1>
         </div>
         </div>
         
