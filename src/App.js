@@ -6,7 +6,9 @@ import Publication from './components/Publication/Publication';
 function App() {
   return (
     <div className="App">
+      {/* header secrtion  */}
      <Header></Header>
+     {/* main section  */}
      <Publication></Publication>
     </div>
   );

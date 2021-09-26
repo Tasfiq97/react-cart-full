@@ -1,0 +1,17 @@
+.cart-item span{
+    color:#ba2f58;
+    font-weight: bolder;
+}
+.slected-persons{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin: 30px;
+}
+.slected-persons img{
+    margin-left: 30px;
+    width: 25%;
+    border-radius: 50%;
+}
